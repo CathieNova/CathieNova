@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm CathieNova
 
-<!--
-**CathieNova/CathieNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 💻 Java & C# developer
+- 🎮 Minecraft modder and community builder
+- ⚡ Focused on practical, efficient, and forward-thinking software solutions
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- **Languages:** Java, C#, JavaScript, HTML, PHP, MySQL
+- **Tools:** Visual Studio, IntelliJ, Git
+- **Other:** REST APIs, SQL, Unit Testing, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![CathieNova's GitHub stats](https://github-readme-stats.vercel.app/api?username=CathieNova&show_icons=true&hide_title=true&theme=default)
+
+## 🔗 Let's Connect
+- 🌐 [Cathie's Haven](https://www.cathiehaven.net)
+- 📺 [Twitch](https://twitch.tv/cathienova)
+- 📹 [YouTube](https://www.youtube.com/@Cathie-Nova)
+- 💬 [Discord](https://www.cathiehaven.net/discord)
